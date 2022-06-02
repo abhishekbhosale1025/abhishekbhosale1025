@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekbhosale1025" alt="abhishekbhosale" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://abhishek-bhosale-portfolio.netlify.app/](https://abhishek-bhosale-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at <a href='https://abhishek-bhosale-portfolio.netlify.app/'>Portfolio</a>
 
-- 📝 I regularly write articles on [https://medium.com/@abhishekbhosale1025](https://medium.com/@abhishekbhosale1025)
+- 📝 I regularly write articles on <a href='https://medium.com/@abhishekbhosale1025'>Medium</a>
 
 - 📫 How to reach me **abhishekbhosale1025@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10hmZjj_8caclKCf4WEP0CoUM2mL9mTcA/view](https://drive.google.com/file/d/10hmZjj_8caclKCf4WEP0CoUM2mL9mTcA/view)
+- 📄 Know about my experiences <a href='https://drive.google.com/file/d/10hmZjj_8caclKCf4WEP0CoUM2mL9mTcA/view'>Medium</a>
 
 - ⚡ Fun fact **I am Poet , Shayar**
 
