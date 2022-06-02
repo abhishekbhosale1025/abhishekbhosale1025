@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abhishekbhosale1025@gmail.com**
 
-- 📄 Know about my experiences <a href='https://drive.google.com/file/d/10hmZjj_8caclKCf4WEP0CoUM2mL9mTcA/view'>Medium</a>
+- 📄 Know about my experiences <a href='https://drive.google.com/file/d/10hmZjj_8caclKCf4WEP0CoUM2mL9mTcA/view'>Resume</a>
 
 - ⚡ Fun fact **I am Poet , Shayar**
 
