@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Bhosale</h1>
 <h3 align="center">A MERN Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekbhosale" alt="abhishekbhosale" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekbhosale1025" alt="abhishekbhosale" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://abhishek-bhosale-portfolio.netlify.app/](https://abhishek-bhosale-portfolio.netlify.app/)
 
